@@ -3,7 +3,8 @@
 ### Usage
 * Create a hosts.json and configure bandwagonhost access
 * Run `yarn` to install dependancies
-* Upload the whole package to aws (you may exclude node_modules/aws-sdk to reduce the package size)
+* Upload the whole package to aws lambda(you may exclude node_modules/aws-sdk to reduce the package size)
+* make sure lambda has the permission to put metrics in CloudWatch
 
 ### Example
 [Example hosts.json](hosts.example.json)
