@@ -1,0 +1,10 @@
+{
+  "name": "data_usage_logging",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.710.0",
+    "bent": "^7.3.7"
+  }
+}
