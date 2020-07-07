@@ -6,7 +6,7 @@
 * Upload the whole package to aws (you may exclude node_modules/aws-sdk to reduce the package size)
 
 ### Example
-https://github.com/MelvinTo/bandwagonhost_data_usage/hosts.example.json
+[Example hosts.json](hosts.example.json)
 
 ### Link to get API key
 https://kiwivm.64clouds.com/main.php
